@@ -22,7 +22,7 @@ JavaScript-Assignments/
 └── Assignment 10/
 
 
-🎯 What I'm Learning
+ What I'm Learning
 JavaScript Fundamentals
 Problem Solving
 Functions and Scope
